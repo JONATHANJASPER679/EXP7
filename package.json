@@ -2,7 +2,7 @@
   "name": "exp7",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<your-github-username>.github.io/<your-repo-name>",
+  "homepage": "https://jonathanjasper679.github.io/EXP7/",
   "type": "module",
   "scripts": {
     "dev": "vite",
